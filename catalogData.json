@@ -2,85 +2,85 @@
   {
     "id_product": 1,
     "product_name": "DEWALT нейлер",
-    "price": 500,
+    "price": 499,
     "image": "img/DCN692P2-QW.jpg"
   },
   {
     "id_product": 13,
     "product_name": "DEWALT циркулярная пила",
-    "price": 0,
+    "price": 759,
     "image": "img/dewalt_575.jpg"
   },
   {
     "id_product": 2,
     "product_name": "DEWALT цепная пила",
-    "price": 0,
+    "price": 199,
     "image": "img/dewalt_545.jpg"
   },
   {
     "id_product": 3,
     "product_name": "DEWALT шуруповерт",
-    "price": 0,
+    "price": 149,
     "image": "img/dcd701d2_1.jpg"
   },
   {
     "id_product": 4,
     "product_name": "DEWALT шуркповерт набор",
-    "price": 0,
+    "price": 99,
     "image": "img/dcd777d2t-qw.jpg"
   },
   {
     "id_product": 14,
     "product_name": "DEWALT сабельная пила",
-    "price": 0,
+    "price": 799,
     "image": "img/367n_1.jpg"
   },
   {
     "id_product": 5,
     "product_name": "DEWALT лобзик",
-    "price": 0,
+    "price": 399,
     "image": "img/242bc5fda.jpg"
   },
   {
     "id_product": 6,
     "product_name": "DEWALT УШМ (болгарка)",
-    "price": 0,
+    "price": 249,
     "image": "img/dcg405n-xj.jpg"
   },
   {
     "id_product": 7,
     "product_name": "DEWALT перфоратор",
-    "price": 0,
+    "price": 379,
     "image": "img/img_id35.jpg"
   },
   {
     "id_product": 8,
     "product_name": "DEWALT перфоратор small",
-    "price": 3490,
+    "price": 349,
     "image": "img/dch263n_1.jpg"
   },
   {
     "id_product": 9,
     "product_name": "DEWALT мультитул",
-    "price": 1490,
+    "price": 149,
     "image": "img/DCS355N-XJ.jpg"
   },
   {
     "id_product": 10,
     "product_name": "DEWALT шлифмашинка",
-    "price": 990,
+    "price": 99,
     "image": "img/dcw210n_3.jpg"
   },
   {
     "id_product": 11,
     "product_name": "DEWALT воздуходувка",
-    "price": 1990,
+    "price": 199,
     "image": "img/572x1-qw_2.jpg"
   },
   {
     "id_product": 12,
     "product_name": "DEWALT пила по бетону",
-    "price": 990,
+    "price": 999,
     "image": "img/dcs690n.jpg"
   } 
 ]
