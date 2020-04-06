@@ -1,21 +1,20 @@
 [
   {
     "id_product": 1,
-    "product_name": "DEWALT шуруповерт",
+    "product_name": "DEWALT нейлер",
     "price": 500,
     "image": "img/DCN692P2-QW.jpg"
   },
-  {
     "id_product": 13,
-    "product_name": "Watch Nike Series 5",
+    "product_name": "DEWALT циркулярная пила",
     "price": 0,
     "image": "img/dewalt_575.jpg"
   },
   {
     "id_product": 2,
-    "product_name": "AirPods",
+    "product_name": "DEWALT цепная пила",
     "price": 0,
-    "image": "img/dewalt_545.jpg"
+    "image": "img/DEWALT.jpg"
   },
   {
     "id_product": 3,
