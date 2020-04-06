@@ -2,55 +2,55 @@
   {
     "id_product": 1,
     "product_name": "DEWALT шуруповерт",
-    "price": 590000,
+    "price": 0,
     "image": "img/DCN692P2-QW.jpg"
   },
   {
     "id_product": 13,
     "product_name": "Watch Nike Series 5",
-    "price": 590,
+    "price": 0,
     "image": "img/dewalt_575.jpg"
   },
   {
     "id_product": 2,
     "product_name": "AirPods",
-    "price": 190,
+    "price": 0,
     "image": "img/dewalt_545.jpg"
   },
   {
     "id_product": 3,
     "product_name": "AirPods Pro",
-    "price": 290,
+    "price": 0,
     "image": "img/dcd701d2_1.jpg"
   },
   {
     "id_product": 4,
     "product_name": "iMac",
-    "price": 1790,
+    "price": 0,
     "image": "img/dcd777d2t-qw.jpg"
   },
   {
     "id_product": 14,
     "product_name": "iMac Pro",
-    "price": 5490,
+    "price": 0,
     "image": "img/367n_1.jpg"
   },
   {
     "id_product": 5,
     "product_name": "Mac Pro",
-    "price": 47490,
+    "price": 0,
     "image": "img/242bc5fda.jpg"
   },
   {
     "id_product": 6,
     "product_name": "Pro Display",
-    "price": 5990,
+    "price": 0,
     "image": "img/dcg405n-xj.jpg"
   },
   {
     "id_product": 7,
     "product_name": "Apple TV",
-    "price": 290,
+    "price": 0,
     "image": "img/img_id35.jpg"
   },
   {
