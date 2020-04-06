@@ -3,19 +3,19 @@
     "id_product": 1,
     "product_name": "Watch Series 5",
     "price": 590,
-    "image": "img/Watch_Series_5.webp"
+    "image": "img/DCN692P2-QW.jpg"
   },
   {
     "id_product": 13,
     "product_name": "Watch Nike Series 5",
     "price": 590,
-    "image": "img/Watch_Nike_Series_5.jpg"
+    "image": "img/dewalt_575.jpg"
   },
   {
     "id_product": 2,
     "product_name": "AirPods",
     "price": 190,
-    "image": "img/AirPods.webp"
+    "image": "img/dewalt_545.jpg"
   },
   {
     "id_product": 3,
